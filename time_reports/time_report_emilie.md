@@ -20,7 +20,7 @@
 |2019-11-11 	|1      	|Installing MongoDB|
 |2019-11-11 	|1      	|Understanding MongoDB (tutos)|
 |2019-11-13 	|0.5     	|add MongoDB connection on server|
-|2019-11-13 	|1      	|Reflecting on how to decure login and registration|
+|2019-11-13 	|1      	|Reflecting on how to secure login and registration|
 |2019-11-15 	|1      	|Add Prosumer registration (not secured yet)|
 |2019-11-17 	|1      	|Add Prosumer login with a token system to secure connection|
 |2019-11-17 	|0.5     	|Add Prosumer log out|
@@ -29,4 +29,4 @@
 |2019-11-18 	|0.5     	|Understanding of the promises|
 |2019-11-19 	|1      	|Correct the errors on th GetProsumerConsumption web service|
 |2019-11-19 	|0.5     	|Correct merge conflicts|
-|2019-11-21 	|0.5     	|Set up new github environnement|
+|2019-11-21 	|0.5     	|Set up new github environment|
