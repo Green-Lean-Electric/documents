@@ -35,3 +35,4 @@
 |2019-11-22 	|0.5     	|Start the prosumer front-end|
 |2019-11-24 	|2      	|Reflecting about a news code architecture|
 |2019-11-25 	|2      	|Change code architecture|
+|2019-11-25 	|1      	|Continue Prosumer Front-end|
