@@ -18,3 +18,4 @@
 | 2019-11-21  | 0.25    | Meeting                                       |
 | 2019-11-24  | 2       | Reviewing the code architecture               |
 | 2019-11-25  | 2       | Rewriting the code architecture               |
+| 2019-11-26  | 2       | Working on static files serving               |
