@@ -43,3 +43,4 @@
 |2019-11-27 	|1      	|Finish Login and islogged ws|
 |2019-11-27 	|1      	|Add Registration and Logout on front|
 |2019-11-27 	|1.5     	|Try to upload file from the front to the server|
+|2019-11-27 	|1      	|Get data from simulator in the prosumer front|
