@@ -36,3 +36,11 @@
 |2019-11-24 	|2      	|Reflecting about a news code architecture|
 |2019-11-25 	|2      	|Change code architecture|
 |2019-11-25 	|1      	|Continue Prosumer Front-end|
+|2019-11-26 	|2      	|Work on prosumer front-end|
+|2019-11-26 	|2      	|Try to connect the prosumer front to the API|
+|2019-11-26 	|1      	|Add islogged ws|
+|2019-11-26 	|1.5     	|Try to get data on server from the login request|
+|2019-11-27 	|1      	|Finish Login and islogged ws|
+|2019-11-27 	|1      	|Add Registration and Logout on front|
+|2019-11-27 	|1.5     	|Try to upload file from the front to the server|
+|2019-11-27 	|1      	|Get data from simulator in the prosumer front|
