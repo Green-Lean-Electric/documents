@@ -44,3 +44,7 @@
 |2019-11-27 	|1      	|Add Registration and Logout on front|
 |2019-11-27 	|1.5     	|Try to upload file from the front to the server|
 |2019-11-27 	|1      	|Get data from simulator in the prosumer front|
+|2019-11-28 	|1.5     	|add net production calculation & get electricity production|
+|2019-11-28 	|1.5     	|Reflecting on buffer calculation|
+|2019-11-28 	|0.25    	|Meeting|
+|2019-11-28 	|1.5     	|[front] draw chart from real data|
