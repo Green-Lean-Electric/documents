@@ -48,3 +48,4 @@
 |2019-11-28 	|1.5     	|Reflecting on buffer calculation|
 |2019-11-28 	|0.25    	|Meeting|
 |2019-11-28 	|1.5     	|[front] draw chart from real data|
+|2019-11-29 	|2      	|add ratio for production and consumption|
