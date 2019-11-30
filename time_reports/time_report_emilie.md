@@ -51,3 +51,5 @@
 |2019-11-29 	|2      	|add ratio for production and consumption|
 |2019-11-29 	|2      	|add refresh every 10s & correct bug on ratios|
 |2019-11-29 	|2      	|add buffer filling|
+|2019-11-30 	|1      	|check data before change ratio|
+|2019-11-30 	|0.5     	|check password secure enough and hash it |
