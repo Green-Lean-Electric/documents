@@ -22,3 +22,4 @@
 | 2019-11-27  | 1       | Helping Emilie regarding the front end        |
 | 2019-11-28  | 1       | Deploying the current version on the server   |
 | 2019-11-30  | 1       | Fixing CORS issue                             |
+| 2019-11-30  | 1       | Adding Content-Type                           |
