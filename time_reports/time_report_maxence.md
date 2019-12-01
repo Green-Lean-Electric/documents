@@ -25,3 +25,6 @@
 | 2019-11-30  | 1       | Adding Content-Type                                           |
 | 2019-11-30  | 2       | Trying to fix my touchpad after having spilled some tea on it |
 | 2019-11-30  | 4       | Setting up the file upload using Formidable                   |
+| 2019-11-31  | 2       | Reworking parameters handling                                 |
+| 2019-11-31  | 1       | Displaying picture miniature                                  |
+| 2019-11-31  | 1       | Adding modal template                                         |
