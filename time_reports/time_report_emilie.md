@@ -53,3 +53,5 @@
 |2019-11-29 	|2      	|add buffer filling|
 |2019-11-30 	|1      	|check data before change ratio|
 |2019-11-30 	|0.5     	|check password secure enough and hash it |
+|2019-12-02 	|1.5     	|Try to correct some bugs |
+|2019-12-02 	|1.5     	|Try to add email sending before to register [FAIL]|
