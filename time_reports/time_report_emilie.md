@@ -55,3 +55,7 @@
 |2019-11-30 	|0.5     	|check password secure enough and hash it |
 |2019-12-02 	|1.5     	|Try to correct some bugs |
 |2019-12-02 	|1.5     	|Try to add email sending before to register [FAIL]|
+|2019-12-03 	|2     	  |Send activation email when registering [SUCCESS]|
+|2019-12-03 	|0.5     	|Add pages when account activated or not|
+|2019-12-03 	|1.5     	|Bug correction on server|
+|2019-12-03 	|0.5     	|Replace alerts by modals|
