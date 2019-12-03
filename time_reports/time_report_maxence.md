@@ -25,6 +25,9 @@
 | 2019-11-30  | 1       | Adding Content-Type                                           |
 | 2019-11-30  | 2       | Trying to fix my touchpad after having spilled some tea on it |
 | 2019-11-30  | 4       | Setting up the file upload using Formidable                   |
-| 2019-11-31  | 2       | Reworking parameters handling                                 |
-| 2019-11-31  | 1       | Displaying picture miniature                                  |
-| 2019-11-31  | 1       | Adding modal template                                         |
+| 2019-12-01  | 2       | Reworking parameters handling                                 |
+| 2019-12-01  | 1       | Displaying picture miniature                                  |
+| 2019-12-01  | 1       | Adding modal template                                         |
+| 2019-12-03  | 1.50    | Working on the week meeting                                   |
+| 2019-12-03  | 1       | Helping Emilie deploying and testing the email sender         |
+| 2019-12-03  | 1       | Working on blocking the UI during long operations             |
