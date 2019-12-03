@@ -28,6 +28,8 @@
 | 2019-12-01  | 2       | Reworking parameters handling                                 |
 | 2019-12-01  | 1       | Displaying picture miniature                                  |
 | 2019-12-01  | 1       | Adding modal template                                         |
+| 2019-12-02  | 1       | Fixing erased content                                         |
+| 2019-12-02  | 1       | Fixing issue with responses                                   |
 | 2019-12-03  | 1.50    | Working on the week meeting                                   |
-| 2019-12-03  | 1       | Helping Emilie deploying and testing the email sender         |
-| 2019-12-03  | 1       | Working on blocking the UI during long operations             |
+| 2019-12-03  | 3       | Helping Emilie deploying and testing the email sender         |
+| 2019-12-03  | 1.50    | Working on blocking the UI during long operations             |
