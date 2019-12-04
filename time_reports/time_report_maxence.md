@@ -33,3 +33,6 @@
 | 2019-12-03  | 1.50    | Working on the week meeting                                   |
 | 2019-12-03  | 3       | Helping Emilie deploying and testing the email sender         |
 | 2019-12-03  | 1.50    | Working on blocking the UI during long operations             |
+| 2019-12-03  | 1       | Differentiating dev and prod environments                     |
+| 2019-12-03  | 1.50    | Improving picture loading                                     |
+| 2019-12-03  | 1.50    | Improving database access                                     |
