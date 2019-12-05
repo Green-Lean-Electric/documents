@@ -59,3 +59,5 @@
 |2019-12-03 	|0.5     	|Add pages when account activated or not|
 |2019-12-03 	|1.5     	|Bug correction on server|
 |2019-12-03 	|0.5     	|Replace alerts by modals|
+|2019-12-04 	|1      	|Start Report|
+|2019-12-05 	|1      	|Add manager Front end|
