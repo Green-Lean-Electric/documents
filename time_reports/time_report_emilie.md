@@ -61,3 +61,6 @@
 |2019-12-03 	|0.5     	|Replace alerts by modals|
 |2019-12-04 	|1      	|Start Report|
 |2019-12-05 	|1      	|Add manager Front end|
+|2019-12-05 	|0.25    	|Meeting|
+|2019-12-06 	|1.5    	|[manager] add account/prosumers pages and change credentials function|
+|2019-12-06 	|1      	|[manager] add upload picture, account deletion and production chart with ratio|
