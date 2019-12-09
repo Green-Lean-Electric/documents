@@ -64,3 +64,7 @@
 |2019-12-05 	|0.25    	|Meeting|
 |2019-12-06 	|1.5    	|[manager] add account/prosumers pages and change credentials function|
 |2019-12-06 	|1      	|[manager] add upload picture, account deletion and production chart with ratio|
+|2019-12-09 	|2      	|Add getMarketDemand WS|
+|2019-12-09 	|1      	|Add Power plant status|
+|2019-12-09 	|1.5     	|add compute power plant production|
+|2019-12-09 	|0.5     	|try to send request to update production [fail]|
