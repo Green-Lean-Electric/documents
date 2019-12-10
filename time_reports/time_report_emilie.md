@@ -68,3 +68,7 @@
 |2019-12-09 	|1      	|Add Power plant status|
 |2019-12-09 	|1.5     	|add compute power plant production|
 |2019-12-09 	|0.5     	|try to send request to update production [fail]|
+|2019-12-10 	|1      	|send request for production [FAIL]|
+|2019-12-10 	|1.5     	|Succeed to change power plant production !|
+|2019-12-10 	|1      	|decrease buffer when power platn stopped|
+|2019-12-10 	|1.5     	|add price setting|
