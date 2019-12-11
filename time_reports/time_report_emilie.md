@@ -72,3 +72,7 @@
 |2019-12-10 	|1.5     	|Succeed to change power plant production !|
 |2019-12-10 	|1      	|decrease buffer when power platn stopped|
 |2019-12-10 	|1.5     	|add price setting|
+|2019-12-11 	|1.5     	|get price from the manager instead of the simulator|
+|2019-12-11 	|1.5     	|block prosumer [manager side only]|
+|2019-12-11 	|1.5     	|manage prosumer blocked, prosumer side|
+|2019-12-11 	|1      	|Reflect on "how manage the black out"|
