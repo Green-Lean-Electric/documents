@@ -39,3 +39,10 @@
 | 2019-12-05  | 1       | Fixing error on login                                         |
 | 2019-12-06  | 6       | Writing the final report                                      |
 | 2019-12-06  | 2       | Moving file from specific folders to shared folder            |
+| 2019-12-07  | 2       | Writing the final report                                      |
+| 2019-12-08  | 3       | Computing the current market consumption demand               |
+| 2019-12-09  | 2.50    | Working on the deployment                                     |
+| 2019-12-10  | 2       | Solving CORS issue                                            |
+| 2019-12-10  | 1       | Writing the final report                                      |
+| 2019-12-11  | 2.50    | Computing the power plant production                          |
+| 2019-12-11  | 1       | Research on how to launch a live server                       |
