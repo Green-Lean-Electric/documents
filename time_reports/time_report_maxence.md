@@ -21,6 +21,7 @@
 | 2019-11-26  | 2       | Working on static files serving                               |
 | 2019-11-27  | 1       | Helping Emilie regarding the front end                        |
 | 2019-11-28  | 1       | Deploying the current version on the server                   |
+| 2019-12-28  | 0.25    | Weekly meeting                                                |
 | 2019-11-30  | 1       | Fixing CORS issue                                             |
 | 2019-11-30  | 1       | Adding Content-Type                                           |
 | 2019-11-30  | 2       | Trying to fix my touchpad after having spilled some tea on it |
@@ -37,6 +38,7 @@
 | 2019-12-04  | 1.50    | Improving picture loading                                     |
 | 2019-12-04  | 2       | Improving database access                                     |
 | 2019-12-05  | 1       | Fixing error on login                                         |
+| 2019-12-05  | 0.25    | Weekly meeting                                                |
 | 2019-12-06  | 6       | Writing the final report                                      |
 | 2019-12-06  | 2       | Moving file from specific folders to shared folder            |
 | 2019-12-07  | 2       | Writing the final report                                      |
@@ -46,3 +48,5 @@
 | 2019-12-10  | 1       | Writing the final report                                      |
 | 2019-12-11  | 2.50    | Computing the power plant production                          |
 | 2019-12-11  | 1       | Research on how to launch a live server                       |
+| 2019-12-12  | 1       | Writing the final report                                      |
+| 2019-12-12  | 0.25    | Weekly meeting                                                |
