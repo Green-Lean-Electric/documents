@@ -75,4 +75,7 @@
 |2019-12-11 	|1.5     	|get price from the manager instead of the simulator|
 |2019-12-11 	|1.5     	|block prosumer [manager side only]|
 |2019-12-11 	|1.5     	|manage prosumer blocked, prosumer side|
-|2019-12-11 	|1      	|Reflect on "how manage the black out"|
+|2019-12-12 	|0.25    	|Meeting|
+|2019-12-12 	|1.5    	|Written report|
+|2019-12-13 	|1      	|encrypt password on client side & bug correction|
+|2019-12-13 	|1.5     	|add & update currentMarketQuantity|
