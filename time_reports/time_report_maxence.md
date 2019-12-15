@@ -50,3 +50,5 @@
 | 2019-12-11  | 1       | Research on how to launch a live server                       |
 | 2019-12-12  | 1       | Writing the final report                                      |
 | 2019-12-12  | 0.25    | Weekly meeting                                                |
+| 2019-12-14  | 3       | Helping Émilie                                                |
+| 2019-12-12  | 10      | Fix simulaotr behavior                                        |
