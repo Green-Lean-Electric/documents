@@ -79,3 +79,6 @@
 |2019-12-12 	|1.5    	|Written report|
 |2019-12-13 	|1      	|encrypt password on client side & bug correction|
 |2019-12-13 	|1.5     	|add & update currentMarketQuantity|
+|2019-12-13 	|1      	|Correct bug on calculation|
+|2019-12-13 	|1.5     	|Written report|
+|2019-12-15 	|1.5     	|Correct bug and try to implements black otu|
