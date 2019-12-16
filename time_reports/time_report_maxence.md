@@ -51,4 +51,5 @@
 | 2019-12-12  | 1       | Writing the final report                                      |
 | 2019-12-12  | 0.25    | Weekly meeting                                                |
 | 2019-12-14  | 3       | Helping Émilie                                                |
-| 2019-12-12  | 10      | Fix simulaotr behavior                                        |
+| 2019-12-12  | 10      | Fix simulator behavior                                        |
+| 2019-12-12  | 3       | Fix simulator behavior                                        |
