@@ -82,3 +82,9 @@
 |2019-12-13 	|1      	|Correct bug on calculation|
 |2019-12-13 	|1.5     	|Written report|
 |2019-12-15 	|1.5     	|Correct bug and try to implements black otu|
+|2019-12-16 	|1.5     	|Testing|
+|2019-12-16 	|1      	|Debuging|
+|2019-12-17 	|1      	|Manage black out on client side|
+|2019-12-17 	|1      	|Correct bug on manager side for block out|
+|2019-12-17 	|1      	|Testing|
+|2019-12-17 	|1      	|Documentation|
