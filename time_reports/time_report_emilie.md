@@ -87,4 +87,9 @@
 |2019-12-17 	|1      	|Manage black out on client side|
 |2019-12-17 	|1      	|Correct bug on manager side for block out|
 |2019-12-17 	|1      	|Testing|
-|2019-12-17 	|1      	|Documentation|
+|2019-12-18 	|1      	|change deleteManagerAccount to deleteProsumerAccount|
+|2019-12-18 	|1      	|clear and factoring code|
+|2019-12-18 	|0.5     	|split updataDat0.5
+|2019-12-18 	|2      	|add change prosumer credentials from manager|
+|2019-12-18 	|1      	|allow manager to change his email and pwd|
+|2019-12-18 	|1      	|Documentation|
