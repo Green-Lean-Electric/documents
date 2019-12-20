@@ -93,3 +93,4 @@
 |2019-12-18 	|2      	|add change prosumer credentials from manager|
 |2019-12-18 	|1      	|allow manager to change his email and pwd|
 |2019-12-18 	|1      	|Documentation|
+|2019-12-20 	|1.5     	|Finish report and submission|
