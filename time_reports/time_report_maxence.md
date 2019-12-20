@@ -54,3 +54,7 @@
 | 2019-12-15  | 10      | Fix simulator behavior                                        |
 | 2019-12-16  | 3       | Fix simulator behavior                                        |
 | 2019-12-17  | 2       | Fix values to have consistent displays                        |
+| 2019-12-19  | 1       | Reviewing the final report                                    |
+| 2019-12-19  | 1       | Cleaning the projects                                         |
+| 2019-12-19  | 2       | Writing and testing the deployment procedure                  |
+| 2019-12-20  | 3       | Finalizing the projects                                       |
